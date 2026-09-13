@@ -1,7 +1,7 @@
 <h1>Griz</h3>
 
-<div align="left">
-    <img src="https://grizbiub.neocities.org/gatop.gif" height="120px" />
+<div align="right">
+    <img src="https://grizbiub.neocities.org/gatop.gif" height="75px" />
 </div>
 
 <h1>Mi lugar personal de caos, aqui simplemente subo mis tonteras, nada profesional.</h1>
