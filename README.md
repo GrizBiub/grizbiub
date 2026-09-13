@@ -4,7 +4,7 @@
     <img src="https://grizbiub.neocities.org/gatop.gif" height="120px" />
 </div>
 
-<text>Mi lugar personal de caos, aqui simplemente subo mis tonteras, nada profesional.</text>
+<h1>Mi lugar personal de caos, aqui simplemente subo mis tonteras, nada profesional.</h1>
 <div align="center">
     <picture align="center">
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
